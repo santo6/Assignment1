@@ -1,0 +1,6 @@
+
+All the tags taught in class 3 are as follows
+ tag list
+1 p
+2 a
+3 br 

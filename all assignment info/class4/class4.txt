@@ -1,0 +1,21 @@
+
+All the tags taught in class 4 are as follows
+tag list
+
+1 Doctype html
+2 style 
+3 id 
+4 color properti
+5 background properti
+6 in line css 
+7 internal css
+8 font famaly 
+9 border
+10 div
+11 width properti
+12 height properti
+13 position absolute
+14 top
+15 disply block
+16 left
+17 nav
